@@ -1,5 +1,11 @@
-# operating_system
-- [Memory Management](./Memory%20Management/README.md)
-  - [Segmentation](./Memory%20Management/Segmentation/Readme.md)
-  - [Free_Space_Management](./Memory%20Management/Free_Space_Management/ReadMe.md)
-  - [implementing_malloc&free](./Memory%20Management/implementing_malloc%26free/ReadMe.md)
+# About this Specialization
+This specialization is intended for people with some programming experience who seek an approachable introduction to how operating systems work on a fundamental level. This course will equip learners with foundational knowledge of operating systems suitable for any developer roles. In these four courses, you will cover everything from the basics of a C program to distributed systems. These topics will help prepare you to optimize the performance of the programs you write.
+
+# Applied Learning Project
+This specialization covers introductory level operating system ideas, techniques, and implementations. The specialization is divided into four parts: 
+1. [Virtualization; and](./Virtualization/README.md)
+2. [Memory Management.](./Memory_Management/README.md) 
+3. [Concurrency,](./Concurrency/README.md) 
+4. [Persistence.](./Persistence/README.md) 
+
+Examples of practical applications include implementing a command line interpreter, and multi-threaded operating system tools.
