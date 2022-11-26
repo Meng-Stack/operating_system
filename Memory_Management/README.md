@@ -10,6 +10,7 @@ This course is designed for learners who have a basic understanding of computer 
 
 ## Content
 - [Segmentation](./Step-1/README.md)
+    - [Segmentation](./Step-1/Segmentation/README.md)
     - [Free Space Management](./Step-1/Free_Space_Management/README.md)
     - [Implementing Malloc and Free](./Step-1/Implementing_Malloc_and_Free/README.md)
     - Exercise
